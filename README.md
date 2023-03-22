@@ -1,1 +1,3 @@
-# affinity_distillation
+# Affinity Distillation
+
+Affinity Distillation is a method for extracting thermodynamic affinities de-novo from deep learning models of ChIP experiments. This has been tested with neural networks modeling base-resolution in-vivo binding profiles of yeast and mammalian TFs. Affinity Distillation can accurately predict energetic impacts of varying underlying motifs and local sequence context on TF binding. Affinity Distillation relies on in-silico marginalization against many sequence backgrounds, resulting in a higher dynamic range and more accurate predictions than motif discovery algorithms. Systematic comparisons between Affinity Distillation predictions and other predictive algorithms consistently show that Affinity Distillation more accurately predicts affinities across a wide range of TF structural classes and DNA sequences. 
