@@ -4,7 +4,7 @@ Affinity Distillation is a method for extracting thermodynamic affinities _de-no
 
 This repository implements the methods in [De novo distillation of thermodynamic affinity from deep learning regulatory sequence models of in vivo protein-DNA binding](https://doi.org/10.1101/2023.05.11.540401) as well as the comparisons with other commonly used methods such as Weeder, MoDISco, STREME, etc.
 
-Here is a [video](https://youtu.be/PiFdfkkD96g) of a short talk given at ISMB. Here is an [example](10.1126/science.add1250) of Affinity Distillation being used to predict effects identical to those measured _in-vitro_ from neural networks trained only on _in-vivo_ genome-wide chromatin immunoprecipitation data.
+Here is a [video](https://youtu.be/PiFdfkkD96g) of a short talk given at ISMB. Here is an [example](https://doi.org/10.1126/science.add1250) of Affinity Distillation being used to predict effects identical to those measured _in-vitro_ from neural networks trained only on _in-vivo_ genome-wide chromatin immunoprecipitation data.
 
 ## Repo Structure
 
